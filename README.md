@@ -3,7 +3,7 @@
 An end-to-end deep learning time series forecasting system that predicts Tesla stock prices by modeling historical market behavior. This project compares **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)** architectures under identical experimental conditions to determine which recurrent neural network better captures temporal dependencies in financial time series.
 
 ---
-
+![Project Evolution](Stock_Price_Forecasting_system_thumbnail.png)
 # Why I Built This
 
 Financial markets are highly dynamic, making stock price forecasting one of the most challenging time-series prediction problems.
